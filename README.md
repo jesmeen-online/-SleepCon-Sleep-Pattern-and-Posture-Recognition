@@ -14,3 +14,6 @@ Real-time Application: A desktop application utilizes the stored SleepCon model 
 Classification Accuracy: Greater than 90%
 Real-time Application Accuracy: 100% after experimentation with the SleepCon model
 This repository includes the code and resources needed to implement and test the SleepCon model, as well as the desktop application for real-time posture detection. We hope this tool aids in your research or clinical applications related to sleep pattern and posture monitoring.
+
+# Install
+pip install opencv-python
